@@ -15,4 +15,4 @@
 [![LG G7](https://img.shields.io/badge/LG%20G7-a2aaad?style=flat-square&logo=lg&logoColor=ffffff)](https://www.lg.com/hk/mobile-phone/lg-LMG710EMW-64GB)
 
 ## 📫 Get in touch
-[![Telegram](https://img.shields.io/badge/%40TH779-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/Laulan56)
+[![Telegram](https://img.shields.io/badge/%40Laulan56-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/Laulan56)
