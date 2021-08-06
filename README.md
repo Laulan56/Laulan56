@@ -12,7 +12,6 @@
 
 ## 📱 Devices in use
 [![Oneplus 8T](https://img.shields.io/badge/Oneplus%208T-dd4814?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/8t)
-[![LG G7](https://img.shields.io/badge/LG%20G7-a2aaad?style=flat-square&logo=lg&logoColor=ffffff)](https://www.lg.com/hk/mobile-phone/lg-LMG710EMW-64GB)
 
 ## 📫 Get in touch
 [![Telegram](https://img.shields.io/badge/%40Laulan56-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/Laulan56)
