@@ -12,6 +12,7 @@
 
 ## 📱 Devices in use
 [![Oneplus 8T](https://img.shields.io/badge/Oneplus%208T-dd4814?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/8t)
+[![Mi 6](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/mi6/)
 
 ## 📫 Get in touch
 [![Telegram](https://img.shields.io/badge/%40Laulan56-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/Laulan56)
